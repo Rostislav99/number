@@ -1,5 +1,6 @@
 #folder logs
 logs/
-
+/logs
 #txt-files
 docs/*.txt
+errors.txt
