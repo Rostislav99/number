@@ -1,0 +1,22 @@
+{
+  "name": "number",
+  "version": "1.0.0",
+  "description": "Hello,Git and Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rostislav99/number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rostislav99/number/issues"
+  },
+  "homepage": "https://github.com/Rostislav99/number#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
